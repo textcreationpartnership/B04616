@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christians daily walk with God by faith, or, A collection of promises, for the comfort of Christians in every position, by E.L.</title>
+            <author>E. L., fl. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04616</idno>
+            <idno type="STC">Wing O25</idno>
+            <idno type="STC">ESTC R222980</idno>
+            <idno type="EEBO-CITATION">53981686</idno>
+            <idno type="OCLC">ocm 53981686</idno>
+            <idno type="VID">180291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180291)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christians daily walk with God by faith, or, A collection of promises, for the comfort of Christians in every position, by E.L.</title>
+                  <author>E. L., fl. 1660.</author>
+                  <author>Oasland, Henry, attributed author.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Wing gives author as Henry Oasland.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>In four columns.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Reading --  Early works to 1800.</term>
+               <term>Bible --  Devotional use --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:180291:1"/>
+            <head>THE <hi>Chriſtians daily Walk with God by Faith.</hi> OR, A Collection of PROMISES, for the Comfort of Chriſtians in every Condition, by <hi>E. L.</hi>
+            </head>
+            <head type="sub">
+               <list>
+                  <item>I. Promiſes, The Uſefulneſs of them: What better Motive to and Help for Prayer, Hearing, Reading, Meditation, Conference, <hi>&amp;c.</hi>
+                  </item>
+                  <item>II. Promiſes, Uſeful for the quickening and Exerciſing of all <hi>Holy Graces,</hi> as to the ſtrengthning of Faith, quickning of Hope, inflaming Zeal, Confirming Patience, Helps againſt Unbelief, Strengthning againſt Temptation, ſupport againſt inward and outward Troubles, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>Paul</hi>'s Exhortation, 2 <hi>Cor.</hi> 7. 1.</bibl>
+               <q>Having therefore theſe Promiſes, dearly Beloved let us cleanſe our ſelves from the fi'thineſs of the Fleſh and the Spirit perfecting Holineſs in the fear of God.</q>
+            </epigraph>
+            <epigraph>
+               <bibl>Solomon after his Prayer, 1 <hi>Kings</hi> 8. 56.</bibl>
+               <q>Bleſſed be the Lord <hi>(ſaith he)</hi> that hath given Reſt unto his people <hi>Iſrael,</hi> according to all that be hath promiſed; There hath not failed one Word of all his good <hi>promiſe</hi> which he promiſed by the Hand of <hi>Moſes</hi> his Servant, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <epigraph>
+               <bibl>John 5 39.</bibl>
+               <q>Search the Scriptures, for in them ye think ye have Eternal Life, and they are they which Teſtifie of Me.</q>
+            </epigraph>
+            <p>Promiſes, <hi>For forgiveneſs of</hi> Sin, <hi>and Healing. ISaiah</hi> 43.25. <hi>and</hi> 57.18. <hi>and</hi> 44.22. <hi>and</hi> 31.14. <hi>Ezek:</hi> 36.25. <hi>Job</hi> 33.27, 28, 29. <hi>Ezek.</hi> 18.22. <hi>Jer.</hi> 31.34.</p>
+            <p>In time of Deſpair apply <hi>Iſaiah</hi> 57, 19. <hi>Job</hi> 33.24. 25, 26. Promiſes when ſin is burthenſome to the Soul.</p>
+            <p>
+               <hi>Rom.</hi> 16.20. <hi>Iſa:</hi> 32.3. <hi>Matth:</hi> 1.21. <hi>Matth:</hi> 11.28, 29.</p>
+            <p>Promiſes to the Widow and the Fa<g ref="char:EOLhyphen"/>therleſs. <hi>Pſalm:</hi> 10.14. <hi>and</hi> 68.5. <hi>Hoſ;</hi> 14.3. <hi>Zech:</hi> 7.10. <hi>Mal:</hi> 3.5. <hi>Ex<g ref="char:EOLhyphen"/>od:</hi> 22.22. <hi>Deut.</hi> 10.18.</p>
+            <p>Promiſes. <hi>That GOD's People ſhall have Power to Mortifie and overcome Sin. Rom:</hi> 6.12. <hi>Ezek:</hi> 36.25. <hi>Mic:</hi> 7.19.</p>
+            <p>Pro<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, for Pardon, upon turning from Sin. <hi>Prov.</hi> 21.13. 1 <hi>John</hi> 1.9. <hi>Iſa:</hi> 59.7. and 1.18. <hi>Micah</hi> 7.18, 19. <hi>Ezek:</hi> 3, 21. and 18.30.</p>
+            <p>Promiſes for changing the Heart, and ſubduing Corruption and Sin. <hi>Ezek:</hi> 36.26. <hi>Deut:</hi> 30.6. <hi>Mic:</hi> 7.19. <hi>Hoſ:</hi> 14.5. <hi>Rom:</hi> 6.14. <hi>Pſal:</hi> 130.8. 1 <hi>Theſ:</hi> 5, 23, 24. 2 <hi>Theſ:</hi> 3.3. <hi>Micah</hi> 7.19. <hi>John</hi> 17.15. <hi>Ezek:</hi> 18.30. <hi>Matth:</hi> 1 21.</p>
+            <p>Promiſes, of Deliverance from Un<g ref="char:EOLhyphen"/>cleanneſs. <hi>Prov:</hi> 2.16: 1 <hi>Theſſ:</hi> 5.24.</p>
+            <p>Promiſes of Salvation; and Eternal Life. <hi>John.</hi> 5.24. <hi>and</hi> 3 16. <hi>and</hi> 8 51. <hi>John</hi> 11.25.</p>
+            <p>Promiſes for Fruitfulneſs. <hi>Iſai</hi> 35.1, 2, <hi>Prov:</hi> 11.28. <hi>and</hi> 13.4. <hi>Hoſ:</hi> 14, 5. 6.</p>
+            <p>Promiſes for Sanctification, and Ho<g ref="char:EOLhyphen"/>lineſs of Life. <hi>Exod:</hi> 19, 6, <hi>Deut:</hi> 28, 19, 1 <hi>Theſ:</hi> 5, 23 24, <hi>Pſalm:</hi> 1, 3, <hi>Jer:</hi> 31, 3, <hi>Hoſ:</hi> 14, 7. <hi>John</hi> 17, 19.</p>
+            <p>Promiſes for ſupply of Grace. <hi>Job</hi> 8, 7, <hi>Matth:</hi> 13, 12, <hi>Mal:</hi> 1, 11, <hi>Pſal:</hi> 29, 11, <hi>Iſa:</hi> 40.29, 31, and 41.10.</p>
+            <p>Promiſe of the giving the Spirit. <hi>Joel</hi> 2.28, 29, <hi>Ezek:</hi> 36.27, <hi>Luke</hi> 11 13, <hi>John</hi> 14.16, 17, 18.</p>
+            <p>In the want of Love to GOD. <hi>Deut:</hi> 4.9, <hi>Pſal:</hi> 33.21, <hi>Job</hi> 22.26, <hi>Pſal:</hi> 89, 19, <hi>Iſa:</hi> 41, 16.</p>
+            <p>Promiſes of a broken Heart, <hi>Ezek:</hi> 11.19, <hi>Zach:</hi> 12. 10, <hi>Luke</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 5, <hi>Deut:</hi> 30, 6.</p>
+            <p>When the Fear of GOD is wanting <hi>Jeremiah</hi> 32, 40. <hi>Deut:</hi> 4, 10.</p>
+            <p>In the want of Wiſdom. <hi>James</hi> 1.5. <hi>Heb:</hi> 8.11, <hi>Iſa:</hi> 11 9.</p>
+            <p>Promiſes for Underſtanding the Word <hi>of</hi> GOD. <hi>Iſa:</hi> 35.5, 6, and 42.7, <hi>Luke</hi> 4, 18.</p>
+            <p>Promiſes of <hi>perſeverance</hi> in the ways of GOD. <hi>Ezek:</hi> 36.72, <hi>Iſa:</hi> 40, 31.</p>
+            <p>Promiſes for increaſe of Knowledge. <hi>Pſal:</hi> 25.9, 12, 14. <hi>Prov:</hi> 1.29, and 4, 9, 11, 12, 13, and 8, 17. <hi>Hoſ:</hi> 2.20. <hi>Jer:</hi> 31.33, 34. <hi>Iſa:</hi> 11.9, and 35.8, and 32, 3, 4. <hi>John</hi> 7, 17. <hi>Iſa:</hi> 48, 11.</p>
+            <p>Hungring and thirſting for Righteouſ<g ref="char:EOLhyphen"/>neſs, promiſed to be ſatisfied. <hi>Matth:</hi> 5, 6. <hi>Prov:</hi> 10, 24. <hi>Pſal:</hi> 35, 5, and 81, 10. and 145, 19. <hi>Iſa:</hi> 30, 18.</p>
+            <p>Quickning and inlivening Mercies Promiſed. <hi>Amos</hi> 5, 4. <hi>Iſa:</hi> 57, 15. <hi>Prov:</hi> 3, 21, 22. <hi>Pſal:</hi> 22, 26.</p>
+            <p>Promiſes, againſt Falling away <hi>from Grace;</hi> 1 <hi>Cor:</hi> 1, <hi>Job</hi> 11, 15, 27. <hi>Judg:</hi> 5, 31. <hi>Pſal:</hi> 16, 8. and 145, 14. and 91, 2, 14. and 1.13, and 31.24. <hi>Jer:</hi> 32.40.</p>
+            <p>For <hi>Reſtoring after</hi> Falling; <hi>Pſal:</hi> 37.24: 28.<hi>Iſa:</hi> 54:7: 8, 9: 10.</p>
+            <p>Promiſes, that God will not forſake thoſe that belong to him; <hi>Gen.</hi> 17:7. 1 <hi>Kings</hi> 6.13. <hi>Deut:</hi> 31:8. 2 <hi>Chron:</hi> 15:2. <hi>Job</hi> 8; 20. and 36.5: <hi>Hoſ:</hi> 2:19: 20.</p>
+            <p>God's Free Love promiſed, notwith<g ref="char:EOLhyphen"/>ſtanding our unworthineſs &amp; vileneſs; <hi>Hoſ:</hi> 14.4. <hi>Lev:</hi> 26:11. <hi>Deut:</hi> 7:13. <hi>John</hi> 14.21:23. <hi>Jer:</hi> 22.41.</p>
+            <p>Promiſes to the Humble and poor in Spirit; <hi>Iſa:</hi> 66:2. <hi>Matth:</hi> 5:3.</p>
+            <p>Promiſes of Saving <hi>Grace; Ezek:</hi> 36:26: 27: and 11:19. <hi>Luke</hi> 11:13. 1 <hi>Cor:</hi> 2:12: and 1.30: 2 <hi>Cor:</hi> 12.9. 1 <hi>Pet:</hi> 2.19. <hi>Pſal.</hi> 32:8,</p>
+            <p>Promiſes <hi>for</hi>Direction in Straights; <hi>Prov:</hi> 3:6: and 16:3: <hi>Iſa:</hi> 30:21: and 58:11: and 61:8: <hi>Pſal:</hi> 25:22: <hi>Jer:</hi> 31, 9.</p>
+            <p>Promiſes <hi>of ſupport</hi> againſt the Temp<g ref="char:EOLhyphen"/>tations <hi>of</hi> Satan; <hi>Rom;</hi> 6:20. <hi>Pſal:</hi> 19, 3, 4, <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 3, 15.</p>
+            <p>Union <hi>promiſed</hi> amongſt God's People <hi>Jeremiah</hi> 32 39.</p>
+            <p>Bleſſings promiſed; <hi>Pſal.</hi> 5, 12, and 3.8, and 24:5, and 115, 12, 13. <hi>Deut.</hi> 7, 13. <hi>Ezek,</hi> 34, 26. <hi>Gen:</hi> 12.2.</p>
+            <p>A Promiſe made to them that ſhall <hi>ſeparate from</hi> the Wicked and <hi>their</hi> ways, 2. <hi>Cor.</hi> 6.16, 17, 18. <hi>Pſalm,</hi> 1.</p>
+            <p>
+               <hi>Promiſes</hi> that the Ordinances ſhall be profitable; <hi>Iſsa:</hi> 12, 3, <hi>Pſal:</hi> 36.8, 9, and 65.4, and 92.13, 14, and 121, 5, <hi>Iſa:</hi> 57, 7, and 55.3, 11, 11, <hi>Prov:</hi> 1.5, and 4 10; 12, <hi>Jer:</hi> 31, 14, and 3 13. <hi>Ezek:</hi> 34:26, 27.</p>
+            <p>Promiſes to be <hi>urged</hi> in <hi>Prayer; Job</hi> 22, 7. <hi>Iſa:</hi> 65 24. <hi>Math:</hi> 6:6: and 7.7. and 21.22. <hi>John</hi> 15.7. and 14.13, 14. and 16.24.</p>
+            <p>Bleſſings <hi>promiſed</hi> to thoſe that medi<g ref="char:EOLhyphen"/>tate; <hi>Prov:</hi> 14.12. <hi>Pſal:</hi> 103.17, 18. <hi>Phil:</hi> 4:8, 9, <hi>Joſ:</hi> 1.8.</p>
+            <p>If thou wanteſt <hi>utterance</hi> to ſpeak of the things <hi>of</hi> God apply theſe <hi>promiſes, Iſa:</hi> 32:14. and 35:6, <hi>Prov:</hi> 10:31. and 12:14.</p>
+            <p>Promiſes, that God will <hi>defend</hi> the <hi>Graces</hi> begun in his People, <hi>Iſa:</hi> 27:3, and 33.16. and 4:5, 6:</p>
+            <p>Promiſes to thoſe that be <hi>deprived of</hi> the Ordinances. <hi>Iſa:</hi> 35:10. and 40:11, <hi>Jer:</hi> 3:14: <hi>Deut:</hi> 30 4: <hi>Ezek:</hi> 34 11, 12, 13, 14, 15. 16. and 11:16.</p>
+            <p>
+               <hi>Promiſes</hi> to the Faithfull, <hi>under</hi> un<g ref="char:EOLhyphen"/>profitable <hi>Miniſtry, Ezek:</hi> 34:10, 21, 22, and 34:16: <hi>Iſa:</hi> 30:20.</p>
+            <p>
+               <hi>Promiſes</hi> to thoſe that ſeek the <hi>Lord</hi> by Faſting; <hi>Matth:</hi> 6.18, <hi>James</hi> 4:8, 10.</p>
+            <p>
+               <hi>Promiſes</hi> to thoſe that <hi>are</hi> Reproach<g ref="char:EOLhyphen"/>ed and <hi>perſecuted for</hi> profeſſing Godlineſs, <hi>Matth:</hi> 5:11. 12. 1 Pet: 4:14, <hi>Mat:</hi> 10:39. and 5:10. and 19:20.</p>
+            <p>A <hi>Paomiſe</hi> to thoſe that <hi>are partakers</hi> of the <hi>Sufferings of</hi> the Godly, <hi>Matth:</hi> 5:11. 1. <hi>Pet:</hi> 4:14.</p>
+            <p>A <hi>Promiſe</hi> to thoſe that <hi>are</hi> called to defend the <hi>Truth; Matth:</hi> 10:19, 23, <hi>Luke</hi> 21:15.</p>
+            <p>Promiſes <hi>for</hi> Fruitfullneſs; <hi>Pſalm:</hi> 1:3, <hi>Ezek:</hi> 47:12:</p>
+            <p>
+               <hi>Promiſes</hi> to the Faithfull that have Children; <hi>Iſa:</hi> 44:3, 4: <hi>Gen:</hi> 17:7. <hi>Deut:</hi> 7:13. <hi>Pſalm:</hi> 112:2.</p>
+            <p>Promiſes to thoſe that want <hi>Children, Deut:</hi> 7:14, and 28:11, <hi>Pſal:</hi> 128:3, 4, 6, <hi>Exod:</hi> 23:26.</p>
+            <p>Promiſes to the Faithfull to make <hi>their</hi> Habitations <hi>Comfortable, Job</hi> 5:24, <hi>Prov:</hi> 14:11, and 12:7.</p>
+            <p>Promiſes, of bleſſed going out and coming in; <hi>Deut,</hi> 28, 6, <hi>Pſal,</hi> 121, 8, What we Eat to be Bleſſed, <hi>Joel</hi> 2 26, 1 <hi>Cor</hi> 10 31, I <hi>Tim</hi> 4, 4, Reſt, to be Bleſſed; <hi>Prov,</hi> 3 24, <hi>Job</hi> 11 19;</p>
+            <p>Promiſes, that the Work of our hands ſhall be Bleſſed; <hi>Deus:</hi> 28 12, and 30 9.</p>
+            <p>Promiſes that we ſhall Enjoy the Work of our Hands; <hi>Iſa:</hi> 65.21 22. 23 <hi>Pſal.</hi> 128, 2.</p>
+            <p>Promiſes, of Bleſſings upon all out<g ref="char:EOLhyphen"/>ward Enjoyments. <hi>Deut:</hi> 7.13. 14, and 28.4, 5, 12</p>
+            <p>Promiſes that the Faithfull ſhall not loſe by following of the ways of God; <hi>Pſalm</hi> 37.9. 11, 28, 19 and 112.3 <hi>Job</hi> 22, 23, 24, 15. <hi>Gen:</hi> 15:1.</p>
+            <p>Promiſes to ſuch as are in Spiritual or Temporal wants; <hi>Pſalm</hi> 34.9. 10. and 48.11. <hi>Matth:</hi> 6.33.</p>
+            <p>Promiſes to the Charitable; <hi>Matth:</hi> 10.41. 42. and 5.7. and. 6.4. 2 <hi>Cor:</hi> 9.6. 10, 11. <hi>Iſa:</hi> 58. 10, 11, <hi>Prov:</hi> 11. 25. and 19. 17. and 3, 9.10. and 22.9. and 28.27. <hi>Eccleſ.</hi> 11.1.</p>
+            <p>Promiſes to be applyed in time of Sickneſs; <hi>Pſalm</hi> 91.5, 6, 7. and 43.3. <hi>Exod.</hi> 23.52. <hi>Deut.</hi> 7.15.</p>
+            <p>Promiſes, that the purpoſes of the Faithfull ſhall proſper; <hi>Job</hi> 22.28, <hi>Pſalm</hi> 1.3 and 37 5.</p>
+            <p>Bleſſings in great Undertakings pro<g ref="char:EOLhyphen"/>miſed; <hi>Deut:</hi> 31, 8, 2 <hi>Chron:</hi> 16 9. <hi>Pſalm</hi> 91 11, 12.13.</p>
+            <p>Promiſes, of preſervation in time of Danger; <hi>Pſalm</hi> 121.3. 4. 5. and 125.1, 2. 1 <hi>Som:</hi> 2, 9, <hi>Prov:</hi> 1, 33. <hi>Job</hi> 11.18. 19, <hi>Iſa:</hi> 43, 2, 20. <hi>Pſal:</hi> 32.6. 7. and 9.18.</p>
+            <p>That God will Sanctifie the Afflicti<g ref="char:EOLhyphen"/>ons and Troubles of his People; <hi>Iſa.</hi> 1.25. and 27, 9. <hi>Dan;</hi> 11.35. and 12 10. <hi>Zach:</hi> 13 9.</p>
+            <p>Deliverance out of Trouble; <hi>Matth:</hi> 5.4. <hi>John</hi> 16.62. <hi>Prov:</hi> 10.28. <hi>Iob</hi> 11.16. and 1.20, 21. <hi>Pſal,</hi> 37, and 112 4. and 126.5. 6 and 140.4.</p>
+            <p>That the Enemies of God's People ſhall be deſtroyed; <hi>Deut.</hi> 28, 7. 1 <hi>Sam:</hi> 2.20. <hi>Iob</hi> 8.22. <hi>Iſa.</hi> 41.11, 13. 15. <hi>Pſalm</hi> 37.12.</p>
+            <p>The Deſtruction of Antichriſt; <hi>Rev</hi> 17. 16. <hi>Rev:</hi> 18, 8. 21.</p>
+            <p>The <hi>Return</hi> and Call of the Jews pro<g ref="char:EOLhyphen"/>miſed; <hi>Ezek:</hi> 37.21. 22, <hi>Ier:</hi> 3.18. <hi>Iſa:</hi> 60.2. 4, 5.15. 16. and 61.4, 5, 6. and 62.2, 3, 4 and 48.22.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
